@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="EAEFA66E-40A0-4F47-B99D-788948FFE4FF" ModuleId="TypedSignalR" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="Microsoft.AspNet.SignalR.Core" />
+  <Module PersistentId="AA41C886-0031-4B47-A37A-49F40B7C5F02" ModuleId="MathClient" />
+  <Module PersistentId="51C336AE-E049-49FE-9B94-02B52D5CBC23" ModuleId="MathContract" />
+  <Module PersistentId="65B6DACC-35F4-4325-8FB9-4FA3CCB69265" ModuleId="MathServer" />
+  <Module PersistentId="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed" ModuleId="Newtonsoft.Json" />
+</Modules>

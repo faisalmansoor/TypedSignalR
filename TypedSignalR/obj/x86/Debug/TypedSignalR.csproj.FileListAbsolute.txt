@@ -1,0 +1,9 @@
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\TypedSignalR\bin\Debug\TypedSignalR.dll
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\TypedSignalR\bin\Debug\TypedSignalR.pdb
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\TypedSignalR\bin\Debug\Castle.Core.dll
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\TypedSignalR\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\TypedSignalR\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\TypedSignalR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\TypedSignalR\bin\Debug\System.Reactive.Core.dll
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\TypedSignalR\obj\x86\Debug\TypedSignalR.dll
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\TypedSignalR\obj\x86\Debug\TypedSignalR.pdb

@@ -1,0 +1,8 @@
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\TypedSignalR\MathContract\bin\Debug\MathContract.dll
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\TypedSignalR\MathContract\bin\Debug\MathContract.pdb
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\TypedSignalR\MathContract\obj\Debug\MathContract.dll
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\TypedSignalR\MathContract\obj\Debug\MathContract.pdb
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\MathContract\bin\Debug\MathContract.dll
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\MathContract\bin\Debug\MathContract.pdb
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\MathContract\obj\Debug\MathContract.dll
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\MathContract\obj\Debug\MathContract.pdb

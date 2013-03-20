@@ -1,0 +1,4 @@
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\MathContract\bin\x86\Debug\MathContract.dll
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\MathContract\bin\x86\Debug\MathContract.pdb
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\MathContract\obj\x86\Debug\MathContract.dll
+C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\MathContract\obj\x86\Debug\MathContract.pdb

@@ -1,0 +1,188 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="EAEFA66E-40A0-4F47-B99D-788948FFE4FF/f:Util.cs" caret="0" fromTop="0" />
+      <File id="EAEFA66E-40A0-4F47-B99D-788948FFE4FF/f:HubExtensions.cs" caret="668" fromTop="21" />
+      <File id="65B6DACC-35F4-4325-8FB9-4FA3CCB69265/f:Program.cs" caret="563" fromTop="24" />
+      <File id="65B6DACC-35F4-4325-8FB9-4FA3CCB69265/f:MathService.cs" caret="820" fromTop="30" />
+      <File id="51C336AE-E049-49FE-9B94-02B52D5CBC23/f:Interfaces.cs" caret="419" fromTop="15" />
+      <File id="65B6DACC-35F4-4325-8FB9-4FA3CCB69265/f:TestService.cs" caret="0" fromTop="0" />
+      <File id="AA41C886-0031-4B47-A37A-49F40B7C5F02/f:Program.cs" caret="1087" fromTop="25" />
+      <File id="EAEFA66E-40A0-4F47-B99D-788948FFE4FF/f:TypedHubConnection.cs" caret="4906" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="EAEFA66E-40A0-4F47-B99D-788948FFE4FF/f:TypedHubConnection.cs" caret="477" fromTop="6" />
+      <File id="EAEFA66E-40A0-4F47-B99D-788948FFE4FF/f:TypedHubConnection.cs" caret="2925" fromTop="0" />
+      <File id="EAEFA66E-40A0-4F47-B99D-788948FFE4FF/f:TypedHubConnection.cs" caret="2067" fromTop="13" />
+      <File id="EAEFA66E-40A0-4F47-B99D-788948FFE4FF/f:TypedHubConnection.cs" caret="2469" fromTop="11" />
+      <File id="AA41C886-0031-4B47-A37A-49F40B7C5F02/f:Program.cs" caret="2502" fromTop="46" />
+      <File id="65B6DACC-35F4-4325-8FB9-4FA3CCB69265/f:Program.cs" caret="446" fromTop="16" />
+      <File id="AA41C886-0031-4B47-A37A-49F40B7C5F02/f:Program.cs" caret="708" fromTop="19" />
+      <File id="65B6DACC-35F4-4325-8FB9-4FA3CCB69265/f:MathService.cs" caret="241" fromTop="10" />
+      <File id="AA41C886-0031-4B47-A37A-49F40B7C5F02/f:Program.cs" caret="1084" fromTop="30" />
+      <File id="AA41C886-0031-4B47-A37A-49F40B7C5F02/f:Program.cs" caret="2451" fromTop="45" />
+      <File id="65B6DACC-35F4-4325-8FB9-4FA3CCB69265/f:MathService.cs" caret="1458" fromTop="18" />
+      <File id="AA41C886-0031-4B47-A37A-49F40B7C5F02/f:Program.cs" caret="337" fromTop="11" />
+      <File id="65B6DACC-35F4-4325-8FB9-4FA3CCB69265/f:MathService.cs" caret="1213" fromTop="44" />
+      <File id="EAEFA66E-40A0-4F47-B99D-788948FFE4FF/f:TypedHubConnection.cs" caret="4506" fromTop="43" />
+      <File id="EAEFA66E-40A0-4F47-B99D-788948FFE4FF/f:TypedHubConnection.cs" caret="4764" fromTop="48" />
+      <File id="EAEFA66E-40A0-4F47-B99D-788948FFE4FF/f:TypedHubConnection.cs" caret="4461" fromTop="43" />
+      <File id="EAEFA66E-40A0-4F47-B99D-788948FFE4FF/f:TypedHubConnection.cs" caret="4208" fromTop="36" />
+      <File id="EAEFA66E-40A0-4F47-B99D-788948FFE4FF/f:TypedHubConnection.cs" caret="3294" fromTop="11" />
+      <File id="EAEFA66E-40A0-4F47-B99D-788948FFE4FF/f:TypedHubConnection.cs" caret="4001" fromTop="30" />
+      <File id="51C336AE-E049-49FE-9B94-02B52D5CBC23/f:Interfaces.cs" caret="428" fromTop="15" />
+      <File id="65B6DACC-35F4-4325-8FB9-4FA3CCB69265/f:TestService.cs" caret="91" fromTop="8" />
+      <File id="65B6DACC-35F4-4325-8FB9-4FA3CCB69265/f:TestService.cs" caret="229" fromTop="14" />
+      <File id="65B6DACC-35F4-4325-8FB9-4FA3CCB69265/f:TestService.cs" caret="332" fromTop="19" />
+      <File id="65B6DACC-35F4-4325-8FB9-4FA3CCB69265/f:TestService.cs" caret="435" fromTop="24" />
+      <File id="65B6DACC-35F4-4325-8FB9-4FA3CCB69265/f:TestService.cs" caret="0" fromTop="0" />
+      <File id="AA41C886-0031-4B47-A37A-49F40B7C5F02/f:Program.cs" caret="2196" fromTop="61" />
+      <File id="AA41C886-0031-4B47-A37A-49F40B7C5F02/f:Program.cs" caret="1317" fromTop="33" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="IDisposable`0" priority="0" />
+      <Item value="Console`0" priority="8" />
+      <Item value="public" priority="6" />
+      <Item value="void" priority="4" />
+      <Item value="class" priority="2" />
+      <Item value="int" priority="7" />
+      <Item value="interface" priority="2" />
+      <Item value="IMathService`0" priority="3" />
+      <Item value="return" priority="4" />
+      <Item value="num1" priority="0" />
+      <Item value="num2" priority="0" />
+      <Item value="string" priority="7" />
+      <Item value="Server`0" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="Owin" priority="0" />
+      <Item value="Hub`0" priority="0" />
+      <Item value="sum" priority="0" />
+      <Item value="serverUrl" priority="2" />
+      <Item value="server" priority="0" />
+      <Item value="null" priority="2" />
+      <Item value="private" priority="0" />
+      <Item value="IDualProxy`0" priority="1" />
+      <Item value="dualProxy" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="operation" priority="0" />
+      <Item value="pct" priority="0" />
+      <Item value="IClientCallback`0" priority="2" />
+      <Item value="ClientCallback`0" priority="0" />
+      <Item value="callback" priority="1" />
+      <Item value="new" priority="2" />
+      <Item value="ClientCallback" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="i" priority="2" />
+      <Item value="num" priority="0" />
+      <Item value="mathProxy" priority="1" />
+      <Item value="primes100" priority="0" />
+      <Item value="result" priority="0" />
+      <Item value="Thread`0" priority="0" />
+      <Item value="ManualResetEvent`0" priority="0" />
+      <Item value="ManualResetEvent" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="JsonConverter`0" priority="0" />
+      <Item value="JObject`0" priority="0" />
+      <Item value="arg" priority="0" />
+      <Item value="JsonWriter`0" priority="1" />
+      <Item value="writer" priority="0" />
+      <Item value="Type`0" priority="0" />
+      <Item value="ParameterInfo`0" priority="0" />
+      <Item value="double" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.AspNet.SignalR.Hub">
+      <Item value="Clients" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.AspNet.SignalR.Hubs.IHubConnectionContext">
+      <Item value="All" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.AspNet.SignalR.Client.Hubs.HubConnection">
+      <Item value="CreateHubProxy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="6" />
+      <Item value="Read`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TypedSignalR.TypedHubConnection">
+      <Item value="CreateProxy`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Owin.IAppBuilder">
+      <Item value="MapHubs`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Test.IMathService">
+      <Item value="Add`0" priority="0" />
+      <Item value="ListPrimes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Test.Server">
+      <Item value="Start`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TypedSignalR.IDualProxy">
+      <Item value="Subscribe`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Test.IClientCallback">
+      <Item value="Notify`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+      <Item value="Join`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Newtonsoft.Json.JsonConvert">
+      <Item value="DeserializeObject`0" priority="0" />
+      <Item value="SerializeObject`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.Task">
+      <Item value="Run`1" priority="0" />
+      <Item value="Factory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.ManualResetEvent">
+      <Item value="WaitOne`0" priority="1" />
+      <Item value="Set`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.TaskFactory">
+      <Item value="StartNew`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MathContract.IMathService">
+      <Item value="NotifyClient`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Newtonsoft.Json.Linq.JObject">
+      <Item value="Parse`0" priority="0" />
+      <Item value="FromObject`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Newtonsoft.Json.Linq.JToken">
+      <Item value="WriteTo`0" priority="0" />
+      <Item value="CreateReader`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Newtonsoft.Json.JsonReader">
+      <Item value="ReadAsString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.ParameterInfo">
+      <Item value="GetType`0" priority="0" />
+      <Item value="ParameterType" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
