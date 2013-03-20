@@ -1,1 +1,0 @@
-C:\Users\faisal.mansoor\Documents\Visual Studio 2010\Projects\TypedSignalR\Resources\Owin.dll
